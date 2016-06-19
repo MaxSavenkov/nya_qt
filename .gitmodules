@@ -1,0 +1,3 @@
+[submodule "ext/nya-engine"]
+	path = ext/nya-engine
+	url = https://bitbucket.org/nyan_developer/nya-engine.git
